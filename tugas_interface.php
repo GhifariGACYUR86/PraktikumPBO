@@ -41,3 +41,5 @@ echo "Luas Persegi (sisi=5): " . $bentuk[0]->hitungLuas() . "<br>";
 echo "Luas Lingkaran (radius=7): " . $bentuk[1]->hitungLuas() . "<br>";
 
 ?>
+
+
